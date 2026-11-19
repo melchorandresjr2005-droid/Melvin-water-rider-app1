@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Melvin WaterRider</string>
+    <string name="shortcut_add_delivery_short">Add Delivery</string>
+    <string name="shortcut_add_delivery_long">Log New Water Delivery</string>
+</resources>

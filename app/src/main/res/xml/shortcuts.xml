@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="add_delivery"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_add_delivery_short"
+        android:shortcutLongLabel="@string/shortcut_add_delivery_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="melvinwaterrider://add_delivery"
+            android:targetPackage="com.aistudio.waterrider.kdpxmw"
+            android:targetClass="com.example.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

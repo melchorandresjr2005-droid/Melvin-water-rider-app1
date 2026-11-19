@@ -1,0 +1,6 @@
+{
+  "name": "Melvin WaterRider",
+  "description": "Offline-first Android app for Water Refilling Station Delivery Riders with route management, utang & sukli tracking, afternoon remittance, payroll, and backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
